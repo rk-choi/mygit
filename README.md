@@ -1,0 +1,2 @@
+# mygit
+my own git
